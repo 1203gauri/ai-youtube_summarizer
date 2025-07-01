@@ -1,0 +1,10 @@
+
+streamlit
+youtube-transcript-api
+transformers
+torch
+fpdf
+python-docx
+openai
+python-dotenv
+google-generativeai
