@@ -3,7 +3,7 @@
 
 Tired of watching long videos for revision? This AI-powered tool extracts the transcript from any YouTube video and uses Google's powerful Gemini AI to generate clean, structured, and downloadable study notes. Learn smarter, not harder.
 
-✨ Live Demo (Coming Soon!) - The app is currently being deployed. Stay tuned!
+
 
 
 
